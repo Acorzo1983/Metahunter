@@ -1,5 +1,6 @@
 # MetaHunter Toolkit
-MetaHunter is a collection of Python scripts designed to facilitate various reconnaissance tasks, including PDF downloading, metadata extraction, and email harvesting.
+MetaHunter is a collection of Python scripts crafted to enhance reconnaissance efforts, assisting in uncovering information disclosures and facilitating dictionary creation. Its functionalities encompass tasks like PDF downloading, metadata extraction, and email harvesting, empowering users in their bug bounty pursuits. Moreover, it aids in identifying potential data leaks, offering a proactive approach to safeguarding your company's sensitive information.
+
 
 ### Tools Included
 PDF Downloader (pdfdownloader.py):
