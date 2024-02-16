@@ -1,6 +1,13 @@
 # MetaHunter Toolkit
 MetaHunter is a collection of Python scripts crafted to enhance reconnaissance efforts, assisting in uncovering information disclosures and facilitating dictionary creation. Its functionalities encompass tasks like PDF downloading, metadata extraction, and email harvesting, empowering users in their bug bounty pursuits. Moreover, it aids in identifying potential data leaks, offering a proactive approach to safeguarding your company's sensitive information.
 
+### Installation
+
+Clone the repository and install dependencies with the following one-liner:
+
+```bash
+sudo git clone https://github.com/Acorzo1983/Metahunter.git && cd metahunter && chmod +x *.py && pip install -r requirements.txt
+```
 
 ### Tools Included
 PDF Downloader (pdfdownloader.py):
@@ -48,13 +55,6 @@ Before using MetaHunter, ensure you have the following dependencies installed:
 
     requests==2.26.0: HTTP library for making requests in Python.
 
-### Installation
-
-Clone the repository and install dependencies with the following one-liner:
-
-```bash
-sudo git clone https://github.com/Acorzo1983/Metahunter.git && cd metahunter && chmod +x *.py && pip install -r requirements.txt
-```
 
 # MetaHunter Usage Examples
 
